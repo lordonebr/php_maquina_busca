@@ -1,4 +1,7 @@
 {
+    "name" : "search-engine/search-wikipedia",
+    "description": "Search Engine App",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "App\\": "src"
