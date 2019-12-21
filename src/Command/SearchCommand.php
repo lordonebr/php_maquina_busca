@@ -64,6 +64,8 @@ class SearchCommand extends Command
 
         // show the results
         $this->present($term, $engine, $results);
+
+        return 1;
     }
 
     private function present(string $term, EngineInterface $engine, Result $results): void
