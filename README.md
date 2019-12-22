@@ -17,7 +17,7 @@ Aluno: André Guilherme de Almeida Santos
 
 - COMANDO para executar testes:
 ```
-  php bin/phpunit
+  composer run-script test
 ```  
 
 - COMANDO para listar as máquinas de buscas disponíveis:
