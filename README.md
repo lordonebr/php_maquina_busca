@@ -15,6 +15,11 @@ Aluno: André Guilherme de Almeida Santos
   composer install
 ```  
 
+- COMANDO para executar testes:
+```
+  php bin/phpunit
+```  
+
 - COMANDO para listar as máquinas de buscas disponíveis:
 ```
   php app engines
