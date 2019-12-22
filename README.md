@@ -8,6 +8,8 @@ Professor: Tales Santos
 
 Trabalho: Máquina de Busca
 
+Aluno: André Guilherme de Almeida Santos
+
 - COMANDO para instalar dependências:
 ```
   composer install
